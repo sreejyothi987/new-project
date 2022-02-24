@@ -10,6 +10,7 @@ public class Chartostring {
 		//method2
 		String s1=Character.toString(c);
 		System.out.println(s1);
+		System.out.println("demo file");
 
 
 		
